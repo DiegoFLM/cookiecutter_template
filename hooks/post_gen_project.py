@@ -11,4 +11,7 @@ subprocess.call(['git', 'init'])
 subprocess.call(['git', 'add', '*'])
 subprocess.call(['git', 'commit', '-m', 'Initial commit'])
 
-print(f"{MESSAGE_COLOR}The beginning of your destiny is defined now! Create and have fun!{RESET_ALL}")
+print(
+    f"{MESSAGE_COLOR}The beginning of your destiny is defined now! "
+    f"Create and have fun!{RESET_ALL}"
+)
