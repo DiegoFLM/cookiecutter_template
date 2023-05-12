@@ -4,6 +4,5 @@
     "project_description": "A cool data science project.",
     "project_author_name": "Diego Ledesma",
     "github_account": "DiegoFLM",
-    "project_packages": ["All", "Minimal"],
     "python_version": "3.10"
 }
